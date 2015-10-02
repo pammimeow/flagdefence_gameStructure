@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/3.9">
+
+<!-- Adobe AIR Application Descriptor File Template.
+
+	Specifies parameters for identifying, installing, and launching AIR applications.
+
+	xmlns - The Adobe AIR namespace: http://ns.adobe.com/air/application/3.5
+			The last segment of the namespace specifies the version 
+			of the AIR runtime required for this application to run.
+			
+	minimumPatchLevel - The minimum patch level of the AIR runtime required to run 
+			the application. Optional.
+-->
+
+	<!-- A universally unique application identifier. Must be unique across all AIR applications.
+	Using a reverse DNS-style name as the id is recommended. (Eg. com.example.ExampleApplication.) Required. -->
+	<id>com.csharks.isometricleveldesigner</id>
+
+	<!-- Used as the filename for the application. Required. -->
+	<filename>IsometricLevelDesigner</filename>
+
+	<!-- The name that is displayed in the AIR application installer. 
+	May have multiple values for each language. See samples or xsd schema file. Optional. -->
+	<name>IsometricLevelDesigner</name>
+	
+	<!-- A string value of the format <0-999>.<0-999>.<0-999> that represents application version which can be used to check for application upgrade. 
+	Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
+	An updated version of application must have a versionNumber value higher than the previous version. Required for namespace >= 2.5 . -->
+	<versionNumber>0.6.0</versionNumber>
+		         
+	<!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents the version of the application, as it should be shown to users. Optional. -->
+	<!-- <versionLabel></versionLabel> -->
+
+	<!-- Description, displayed in the AIR application installer.
+	May have multiple values for each language. See samples or xsd schema file. Optional. -->
+	<description>Isometric level editor Helps artists create and export level image and programmers create and export 2D array</description>
+
+	<!-- Copyright information. Optional -->
+	<copyright>Csharks Games and Solutions Pvt Ltd</copyright>
+
+	<!-- Publisher ID. Used if you're updating an application created prior to 1.5.3 -->
+	<!-- <publisherID></publisherID> -->
+
+	<!-- Settings for the application's initial window. Required. -->
+	<initialWindow>
+		<!-- The main SWF or HTML file of the application. Required. -->
+		<!-- Note: In Flash Builder, the SWF reference is set automatically. -->
+		<content>IsometricLevelDesigner.swf</content>
+		
+		
+        <renderMode>direct</renderMode>
+
+        <autoOrients>false</autoOrients>
+        <fullScreen>false</fullScreen>
+        <visible>true</visible>
+    </initialWindow>
+
+	
+	<!-- The subpath of the standard default installation location to use. Optional. -->
+	<installFolder>Csharks</installFolder>
+
+	<!-- The subpath of the Programs menu to use. (Ignored on operating systems without a Programs menu.) Optional. -->
+	<!-- <programMenuFolder></programMenuFolder> -->
+
+	<!-- The icon the system uses for the application. For at least one resolution,
+	specify the path to a PNG file included in the AIR package. Optional. -->
+	<!-- <icon>
+		<image16x16></image16x16>
+		<image29x29></image29x29>
+		<image32x32></image32x32>
+		<image36x36></image36x36>
+		<image40x40></image40x40>
+		<image48x48></image48x48>
+		<image50x50></image50x50>
+		<image57x57></image57x57>
+		<image58x58></image58x58>
+		<image72x72></image72x72>
+		<image76x76></image76x76>
+		<image80x80></image80x80>
+		<image96x96></image96x96>
+		<image100x100></image100x100>
+		<image114x114></image114x114>
+		<image120x120></image120x120>
+		<image128x128></image128x128>
+		<image144x144></image144x144>
+		<image152x152></image152x152>
+		<image512x512></image512x512>
+		<image732x412></image732x412>
+		<image1024x1024></image1024x1024>
+	</icon> -->
+
+	
+</application>

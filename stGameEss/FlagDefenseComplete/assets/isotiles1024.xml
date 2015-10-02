@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:d109cca7d426ec5ab5d41d4e6a4d76fe$ -->
+<TextureAtlas imagePath="isotiles1024.png">
+    <SubTexture name="BaseBg" x="1" y="1" width="1024" height="768"/>
+    <SubTexture name="BlueWithWeapon" x="1" y="1107" width="524" height="728"/>
+    <SubTexture name="GameOver" x="1652" y="189" width="302" height="185"/>
+    <SubTexture name="GameWon" x="1652" y="1" width="307" height="187"/>
+    <SubTexture name="GreenWithWeapon" x="1026" y="1" width="625" height="740"/>
+    <SubTexture name="TitleOnly" x="1" y="770" width="495" height="251"/>
+    <SubTexture name="WoodBase" x="526" y="770" width="499" height="647"/>
+    <SubTexture name="arrowdown" x="287" y="2013" width="40" height="26" frameX="-20" frameY="-6" frameWidth="80" frameHeight="40"/>
+    <SubTexture name="arrowleft" x="246" y="2013" width="40" height="26" frameX="-21" frameY="-6" frameWidth="80" frameHeight="40"/>
+    <SubTexture name="arrowright" x="225" y="1022" width="40" height="26" frameX="-20" frameY="-7" frameWidth="80" frameHeight="40"/>
+    <SubTexture name="arrowup" x="431" y="1078" width="40" height="26" frameX="-20" frameY="-6" frameWidth="80" frameHeight="40"/>
+    <SubTexture name="backbtn" x="1652" y="585" width="209" height="70"/>
+    <SubTexture name="bluebomb" x="562" y="1808" width="30" height="24"/>
+    <SubTexture name="bomb" x="526" y="1808" width="35" height="25"/>
+    <SubTexture name="bush1" x="431" y="1022" width="63" height="55"/>
+    <SubTexture name="bush2" x="1843" y="878" width="50" height="44"/>
+    <SubTexture name="bush3" x="328" y="1992" width="62" height="53"/>
+    <SubTexture name="buttonbase" x="1954" y="443" width="90" height="81"/>
+    <SubTexture name="castleblue1" x="1" y="1836" width="96" height="195"/>
+    <SubTexture name="castleblue2" x="497" y="880" width="28" height="109" frameX="0" frameY="-72" frameWidth="28" frameHeight="195"/>
+    <SubTexture name="castlegreen1" x="1950" y="911" width="96" height="195"/>
+    <SubTexture name="castlegreen2" x="497" y="770" width="28" height="109" frameX="0" frameY="-72" frameWidth="28" frameHeight="195"/>
+    <SubTexture name="dice0001" x="1952" y="708" width="95" height="79" frameX="-3" frameY="0" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice0002" x="1955" y="357" width="91" height="85" frameX="-8" frameY="0" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice0003" x="1" y="1022" width="99" height="83" frameX="-4" frameY="-1" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice0004" x="1950" y="829" width="97" height="81" frameX="-2" frameY="0" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice1" x="1723" y="932" width="61" height="61" frameX="-22" frameY="-12" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice2" x="1226" y="993" width="61" height="61" frameX="-22" frameY="-12" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice3" x="1288" y="991" width="61" height="61" frameX="-22" frameY="-12" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice4" x="1226" y="931" width="61" height="61" frameX="-22" frameY="-12" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice5" x="1314" y="929" width="61" height="61" frameX="-22" frameY="-12" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="dice6" x="1314" y="867" width="61" height="61" frameX="-22" frameY="-12" frameWidth="103" frameHeight="85"/>
+    <SubTexture name="fence1" x="837" y="2006" width="43" height="41"/>
+    <SubTexture name="fence2" x="881" y="2006" width="43" height="40"/>
+    <SubTexture name="flagblue" x="892" y="1418" width="47" height="70"/>
+    <SubTexture name="flaggreen" x="837" y="1936" width="46" height="69"/>
+    <SubTexture name="greenbomb" x="495" y="1058" width="30" height="24"/>
+    <SubTexture name="helpbtn" x="1638" y="794" width="205" height="68"/>
+    <SubTexture name="lbbtn" x="1652" y="725" width="205" height="68"/>
+    <SubTexture name="loadbtn" x="1638" y="863" width="204" height="68"/>
+    <SubTexture name="multibtn" x="1652" y="445" width="243" height="68"/>
+    <SubTexture name="okbtn" x="1652" y="514" width="210" height="70"/>
+    <SubTexture name="play" x="1226" y="1055" width="38" height="50"/>
+    <SubTexture name="playbtn" x="1652" y="656" width="205" height="68"/>
+    <SubTexture name="rock1" x="1960" y="1" width="80" height="56"/>
+    <SubTexture name="selectioncircle" x="1843" y="923" width="50" height="30" frameX="-15" frameY="-5" frameWidth="80" frameHeight="40"/>
+    <SubTexture name="singlebtn" x="1652" y="375" width="243" height="69"/>
+    <SubTexture name="soldier_blue_attack_down_01" x="1376" y="867" width="33" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_02" x="1375" y="1937" width="35" height="65" frameX="-23" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_03" x="1160" y="997" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_04" x="1066" y="1694" width="37" height="67" frameX="-18" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_05" x="802" y="1566" width="39" height="73" frameX="-19" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_06" x="1474" y="1503" width="59" height="63" frameX="-17" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_07" x="1026" y="1107" width="33" height="67" frameX="-25" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_08" x="1375" y="1937" width="35" height="65" frameX="-23" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_09" x="1308" y="1239" width="37" height="65" frameX="-28" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_10" x="976" y="1772" width="41" height="67" frameX="-28" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_11" x="844" y="1862" width="39" height="69" frameX="-28" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_down_12" x="1522" y="999" width="59" height="63" frameX="-9" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_01" x="1140" y="1675" width="47" height="65" frameX="-7" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_02" x="1416" y="1635" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_03" x="1646" y="1751" width="37" height="63" frameX="-28" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_04" x="1646" y="1751" width="37" height="63" frameX="-28" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_05" x="1404" y="1701" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_06" x="1452" y="931" width="73" height="63" frameX="-8" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_07" x="1140" y="1675" width="47" height="65" frameX="-7" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_08" x="1140" y="1675" width="47" height="65" frameX="-7" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_09" x="1582" y="1039" width="39" height="63" frameX="-24" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_10" x="1026" y="1175" width="51" height="65" frameX="-2" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_11" x="1528" y="1567" width="53" height="63" frameX="-12" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_left_12" x="1376" y="1805" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_01" x="1656" y="996" width="33" height="63" frameX="-21" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_02" x="1622" y="962" width="33" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_03" x="1689" y="1943" width="33" height="63" frameX="-26" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_04" x="1056" y="1764" width="37" height="67" frameX="-24" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_05" x="834" y="1790" width="39" height="71" frameX="-22" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_06" x="1502" y="1171" width="59" height="63" frameX="-3" frameY="-14" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_07" x="1160" y="931" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_08" x="1622" y="962" width="33" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_09" x="1618" y="1815" width="37" height="63" frameX="-15" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_10" x="1261" y="1939" width="41" height="65" frameX="-11" frameY="-12" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_11" x="988" y="1699" width="39" height="67" frameX="-13" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_right_12" x="1502" y="1107" width="59" height="63" frameX="-11" frameY="-14" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_01" x="1128" y="1609" width="47" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_02" x="1360" y="1871" width="35" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_03" x="1582" y="975" width="39" height="63" frameX="-15" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_04" x="1339" y="1939" width="35" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_05" x="1452" y="867" width="73" height="63" frameX="0" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_06" x="1128" y="1609" width="47" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_07" x="1128" y="1609" width="47" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_08" x="1562" y="1171" width="39" height="63" frameX="-17" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_09" x="1562" y="1171" width="39" height="63" frameX="-17" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_10" x="1026" y="1041" width="51" height="65" frameX="-28" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_11" x="1486" y="1631" width="53" height="63" frameX="-16" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_attack_up_12" x="1404" y="1569" width="35" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_down_01" x="1410" y="867" width="41" height="63" frameX="-18" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_down_02" x="1513" y="1965" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_down_03" x="812" y="1716" width="37" height="73" frameX="-18" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_down_04" x="698" y="1646" width="43" height="75" frameX="-14" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_down_05" x="1244" y="867" width="69" height="63" frameX="-7" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_down_06" x="1074" y="1241" width="43" height="65" frameX="-15" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_left_01" x="1896" y="451" width="57" height="75" frameX="-6" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_left_02" x="526" y="1418" width="47" height="77" frameX="-18" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_left_03" x="764" y="1874" width="39" height="75" frameX="-26" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_left_04" x="764" y="1874" width="39" height="75" frameX="-26" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_left_05" x="662" y="1570" width="43" height="75" frameX="-18" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_left_06" x="172" y="1953" width="73" height="77" frameX="-8" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_right_01" x="1242" y="1873" width="41" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_right_02" x="1380" y="1635" width="35" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_right_03" x="1513" y="1899" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_right_04" x="796" y="1790" width="37" height="73" frameX="-25" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_right_05" x="666" y="1418" width="43" height="75" frameX="-22" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_right_06" x="1174" y="867" width="69" height="63" frameX="-4" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_up_01" x="1895" y="601" width="57" height="73" frameX="-15" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_up_02" x="534" y="1914" width="47" height="77" frameX="-14" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_up_03" x="788" y="1642" width="39" height="73" frameX="-13" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_up_04" x="788" y="1642" width="39" height="73" frameX="-13" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_up_05" x="662" y="1494" width="43" height="75" frameX="-18" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagattack_up_06" x="384" y="1836" width="71" height="77" frameX="0" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_down_01" x="1226" y="1543" width="39" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_down_02" x="1194" y="1477" width="39" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_left_01" x="1368" y="1739" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_left_02" x="1340" y="1805" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_right_01" x="1272" y="1305" width="37" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_right_02" x="1336" y="1107" width="37" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_up_01" x="1585" y="1887" width="37" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagidle_up_02" x="1547" y="1951" width="37" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_down_01" x="1642" y="1687" width="37" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_down_02" x="1608" y="1751" width="37" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_down_03" x="1306" y="1173" width="37" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_down_04" x="1562" y="1107" width="39" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_down_05" x="1580" y="1823" width="37" height="63" frameX="-21" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_down_06" x="1270" y="1239" width="37" height="65" frameX="-20" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_left_01" x="1657" y="1879" width="33" height="63" frameX="-22" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_left_02" x="1412" y="1239" width="31" height="65" frameX="-24" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_left_03" x="1444" y="1173" width="29" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_left_04" x="1658" y="932" width="31" height="63" frameX="-24" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_left_05" x="1723" y="1054" width="29" height="63" frameX="-26" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_left_06" x="1444" y="1503" width="29" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_right_01" x="1324" y="1873" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_right_02" x="1303" y="1939" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_right_03" x="1374" y="1503" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_right_04" x="1284" y="1873" width="39" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_right_05" x="1234" y="1305" width="37" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_right_06" x="1162" y="1894" width="35" height="67" frameX="-17" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_up_01" x="1368" y="1569" width="35" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_up_02" x="1342" y="1437" width="35" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_up_03" x="1338" y="1503" width="35" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_up_04" x="1479" y="1965" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_up_05" x="1498" y="1833" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_blueflagwalk_up_06" x="1479" y="1899" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_down_01" x="1655" y="1943" width="33" height="63" frameX="-26" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_down_02" x="1723" y="994" width="47" height="59" frameX="-27" frameY="-17" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_down_03" x="1288" y="1053" width="59" height="53" frameX="-15" frameY="-22" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_down_04" x="227" y="1058" width="55" height="45" frameX="-21" frameY="-37" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_down_05" x="1212" y="1371" width="61" height="37" frameX="-15" frameY="-46" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_left_01" x="1532" y="1823" width="47" height="63" frameX="-7" frameY="-12" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_left_02" x="1893" y="975" width="51" height="59" frameX="-18" frameY="-16" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_left_03" x="635" y="1989" width="59" height="57" frameX="-22" frameY="-17" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_left_04" x="1894" y="755" width="57" height="39" frameX="-24" frameY="-41" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_left_05" x="1150" y="1373" width="61" height="37" frameX="-20" frameY="-46" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_right_01" x="1656" y="1815" width="33" height="63" frameX="-22" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_right_02" x="1837" y="1012" width="47" height="59" frameX="-6" frameY="-17" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_right_03" x="925" y="1994" width="59" height="53" frameX="-6" frameY="-22" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_right_04" x="1894" y="929" width="55" height="45" frameX="-4" frameY="-37" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_right_05" x="1088" y="1373" width="61" height="37" frameX="-5" frameY="-46" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_up_01" x="1556" y="1695" width="47" height="63" frameX="-24" frameY="-14" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_up_02" x="1785" y="992" width="51" height="59" frameX="-10" frameY="-18" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_up_03" x="1894" y="871" width="55" height="57" frameX="0" frameY="-19" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_up_04" x="1090" y="932" width="53" height="39" frameX="0" frameY="-43" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_die_up_05" x="165" y="1022" width="59" height="35" frameX="0" frameY="-48" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_down_01" x="1556" y="1367" width="43" height="63" frameX="-16" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_down_02" x="1445" y="1965" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_down_03" x="814" y="1418" width="37" height="73" frameX="-18" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_down_04" x="755" y="1952" width="43" height="75" frameX="-14" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_down_05" x="1452" y="995" width="69" height="63" frameX="-7" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_down_06" x="1217" y="1939" width="43" height="65" frameX="-15" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_left_01" x="1896" y="375" width="57" height="75" frameX="-6" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_left_02" x="504" y="1836" width="47" height="77" frameX="-18" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_left_03" x="756" y="1798" width="39" height="75" frameX="-27" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_left_04" x="756" y="1798" width="39" height="75" frameX="-27" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_left_05" x="720" y="1876" width="43" height="75" frameX="-18" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_left_06" x="98" y="1958" width="73" height="77" frameX="-8" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_right_01" x="1220" y="1807" width="41" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_right_02" x="1480" y="1767" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_right_03" x="810" y="1492" width="37" height="73" frameX="-25" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_right_04" x="712" y="1800" width="43" height="75" frameX="-23" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_right_05" x="1560" y="898" width="69" height="63" frameX="-4" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_right_06" x="1010" y="1418" width="43" height="67" frameX="-23" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_up_01" x="1895" y="527" width="57" height="73" frameX="-15" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_up_02" x="486" y="1914" width="47" height="77" frameX="-14" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_up_03" x="772" y="1716" width="39" height="73" frameX="-13" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_up_04" x="772" y="1716" width="39" height="73" frameX="-13" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_up_05" x="688" y="1724" width="43" height="75" frameX="-18" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagattack_up_06" x="318" y="1914" width="71" height="77" frameX="0" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_down_01" x="1298" y="1107" width="37" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_down_02" x="1268" y="1173" width="37" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_left_01" x="1334" y="1371" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_left_02" x="1306" y="1437" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_right_01" x="1232" y="1239" width="37" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_right_02" x="1196" y="1305" width="37" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_up_01" x="1547" y="1887" width="37" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagidle_up_02" x="1626" y="1623" width="37" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_down_01" x="1620" y="1559" width="37" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_down_02" x="1620" y="1495" width="37" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_down_03" x="1260" y="1107" width="37" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_down_04" x="1560" y="1299" width="39" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_down_05" x="1604" y="1687" width="37" height="63" frameX="-21" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_down_06" x="1230" y="1173" width="37" height="65" frameX="-20" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_left_01" x="1691" y="932" width="31" height="63" frameX="-23" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_left_02" x="1442" y="1107" width="31" height="65" frameX="-23" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_left_03" x="1466" y="1371" width="29" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_left_04" x="1622" y="1026" width="29" height="63" frameX="-25" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_left_05" x="1691" y="996" width="29" height="63" frameX="-25" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_left_06" x="1444" y="1437" width="29" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_right_01" x="1310" y="1305" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_right_02" x="1298" y="1371" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_right_03" x="1344" y="1673" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_right_04" x="1262" y="1807" width="39" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_right_05" x="1194" y="1239" width="37" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_right_06" x="1147" y="1966" width="35" height="67" frameX="-17" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_up_01" x="1332" y="1739" width="35" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_up_02" x="1332" y="1607" width="35" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_up_03" x="1308" y="1673" width="35" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_up_04" x="1464" y="1833" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_up_05" x="1445" y="1899" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_greenflagwalk_up_06" x="1126" y="1038" width="33" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_down_01" x="1126" y="972" width="33" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_down_02" x="1474" y="1701" width="33" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_left_01" x="1096" y="1543" width="47" height="65" frameX="-7" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_left_02" x="1064" y="1477" width="47" height="65" frameX="-7" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_right_01" x="1452" y="1635" width="33" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_right_02" x="1440" y="1569" width="33" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_up_01" x="1514" y="1759" width="47" height="63" frameX="-24" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_idle_up_02" x="1540" y="1631" width="47" height="63" frameX="-24" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_down_01" x="1588" y="1623" width="37" height="63" frameX="-20" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_down_02" x="1560" y="1235" width="39" height="63" frameX="-18" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_down_03" x="1212" y="1741" width="41" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_down_04" x="1562" y="1759" width="45" height="63" frameX="-14" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_down_05" x="1198" y="1873" width="43" height="65" frameX="-15" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_down_06" x="1188" y="1675" width="41" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_left_01" x="1412" y="1173" width="31" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_left_02" x="1442" y="1305" width="29" height="65" frameX="-24" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_left_03" x="1474" y="1437" width="27" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_left_04" x="1436" y="1371" width="29" height="65" frameX="-23" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_left_05" x="1474" y="1173" width="27" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_left_06" x="1474" y="1107" width="27" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_right_01" x="1412" y="1437" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_right_02" x="1404" y="1371" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_right_03" x="1380" y="1305" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_right_04" x="1158" y="1305" width="37" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_right_05" x="1410" y="1503" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_right_06" x="1380" y="1239" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_up_01" x="1176" y="1609" width="41" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_up_02" x="1144" y="1543" width="41" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_up_03" x="1030" y="1835" width="37" height="67" frameX="-26" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_up_04" x="1378" y="1437" width="33" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_up_05" x="1302" y="1541" width="35" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_blue_walk_up_06" x="1037" y="1976" width="37" height="67" frameX="-26" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_01" x="1370" y="1371" width="33" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_02" x="1346" y="1305" width="33" height="65" frameX="-24" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_03" x="1346" y="1239" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_04" x="1016" y="1908" width="37" height="67" frameX="-18" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_05" x="570" y="1652" width="37" height="77" frameX="-20" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_06" x="1500" y="1303" width="59" height="63" frameX="-17" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_07" x="1346" y="1305" width="33" height="65" frameX="-24" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_08" x="1222" y="1107" width="37" height="65" frameX="-28" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_09" x="950" y="1846" width="41" height="67" frameX="-28" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_10" x="592" y="1833" width="39" height="77" frameX="-27" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_11" x="1500" y="1239" width="59" height="63" frameX="-9" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_down_12" x="1183" y="1962" width="33" height="67" frameX="-25" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_01" x="1054" y="1411" width="47" height="65" frameX="-8" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_02" x="1296" y="1607" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_03" x="1582" y="1559" width="37" height="63" frameX="-28" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_04" x="1582" y="1559" width="37" height="63" frameX="-28" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_05" x="1192" y="1173" width="37" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_06" x="1100" y="867" width="73" height="63" frameX="-8" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_07" x="1054" y="1411" width="47" height="65" frameX="-8" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_08" x="1556" y="1431" width="39" height="63" frameX="-24" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_09" x="1556" y="1431" width="39" height="63" frameX="-24" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_10" x="1026" y="975" width="51" height="65" frameX="-2" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_11" x="1474" y="1567" width="53" height="63" frameX="-12" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_left_12" x="1270" y="1475" width="35" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_01" x="1623" y="1879" width="33" height="63" frameX="-22" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_02" x="1585" y="1951" width="35" height="63" frameX="-22" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_03" x="1446" y="1767" width="33" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_04" x="1058" y="1554" width="37" height="67" frameX="-25" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_05" x="732" y="1722" width="39" height="75" frameX="-22" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_06" x="1496" y="1371" width="59" height="63" frameX="-4" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_07" x="1585" y="1951" width="35" height="63" frameX="-22" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_08" x="1156" y="1239" width="37" height="65" frameX="-15" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_09" x="1144" y="1411" width="41" height="65" frameX="-11" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_10" x="799" y="1950" width="37" height="75" frameX="-15" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_11" x="1350" y="997" width="59" height="63" frameX="-12" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_right_12" x="1430" y="1833" width="33" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_01" x="1026" y="1307" width="47" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_02" x="1266" y="1541" width="35" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_03" x="1596" y="1431" width="37" height="63" frameX="-16" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_04" x="1596" y="1431" width="37" height="63" frameX="-16" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_05" x="1184" y="1107" width="37" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_06" x="1026" y="867" width="73" height="63" frameX="0" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_07" x="1026" y="1307" width="47" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_08" x="1410" y="995" width="39" height="63" frameX="-17" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_09" x="1410" y="995" width="39" height="63" frameX="-17" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_10" x="985" y="1982" width="51" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_11" x="1502" y="1435" width="53" height="63" frameX="-16" frameY="-13" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_attack_up_12" x="1262" y="1409" width="35" height="65" frameX="-27" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_down_01" x="668" y="1800" width="43" height="75" frameX="-18" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_down_02" x="632" y="1808" width="35" height="77" frameX="-23" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_down_03" x="526" y="1730" width="43" height="77" frameX="-20" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_down_04" x="570" y="1574" width="37" height="77" frameX="-22" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_down_05" x="695" y="1962" width="59" height="75" frameX="-19" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_down_06" x="574" y="1418" width="37" height="77" frameX="-23" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_left_01" x="1894" y="795" width="55" height="75" frameX="-6" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_left_02" x="1844" y="800" width="49" height="77" frameX="-17" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_left_03" x="804" y="1864" width="39" height="71" frameX="-27" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_left_04" x="804" y="1864" width="39" height="71" frameX="-27" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_left_05" x="642" y="1724" width="45" height="75" frameX="-19" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_left_06" x="357" y="1022" width="73" height="77" frameX="-8" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_right_01" x="770" y="1418" width="43" height="73" frameX="-21" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_right_02" x="606" y="1730" width="35" height="77" frameX="-25" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_right_03" x="526" y="1652" width="43" height="77" frameX="-19" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_right_04" x="582" y="1912" width="39" height="77" frameX="-23" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_right_05" x="710" y="1418" width="59" height="73" frameX="-5" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_right_06" x="570" y="1496" width="37" height="77" frameX="-23" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_up_01" x="608" y="1572" width="53" height="75" frameX="-19" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_up_02" x="456" y="1836" width="47" height="77" frameX="-14" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_up_03" x="852" y="1418" width="39" height="71" frameX="-13" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_up_04" x="852" y="1418" width="39" height="71" frameX="-13" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_up_05" x="756" y="1568" width="45" height="73" frameX="-15" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagattack_up_06" x="312" y="1836" width="71" height="77" frameX="0" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_down_01" x="1410" y="931" width="39" height="63" frameX="-24" frameY="-10" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_down_02" x="1254" y="1741" width="39" height="65" frameX="-24" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_left_01" x="960" y="1488" width="35" height="69" frameX="-19" frameY="-4" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_left_02" x="954" y="1559" width="35" height="69" frameX="-19" frameY="-4" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_right_01" x="1154" y="1173" width="37" height="65" frameX="-18" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_right_02" x="1118" y="1239" width="37" height="65" frameX="-18" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_up_01" x="1140" y="1826" width="35" height="67" frameX="-26" frameY="-6" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagidle_up_02" x="1126" y="1898" width="35" height="67" frameX="-26" frameY="-6" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_down_01" x="1111" y="1968" width="35" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_down_02" x="1130" y="1758" width="35" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_down_03" x="1054" y="1626" width="37" height="67" frameX="-21" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_down_04" x="1028" y="1696" width="37" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_down_05" x="1018" y="1767" width="37" height="67" frameX="-21" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_down_06" x="1104" y="1830" width="35" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_left_01" x="884" y="1924" width="33" height="69" frameX="-22" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_left_02" x="1863" y="584" width="31" height="69" frameX="-24" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_left_03" x="996" y="1488" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_left_04" x="990" y="1558" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_left_05" x="986" y="1629" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_left_06" x="958" y="1702" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_right_01" x="1146" y="1107" width="37" height="65" frameX="-16" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_right_02" x="1116" y="1173" width="37" height="65" frameX="-16" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_right_03" x="1108" y="1107" width="37" height="65" frameX="-16" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_right_04" x="1230" y="1675" width="39" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_right_05" x="1218" y="1609" width="39" height="65" frameX="-16" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_right_06" x="1090" y="1900" width="35" height="67" frameX="-17" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_up_01" x="950" y="1632" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_up_02" x="922" y="1706" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_up_03" x="888" y="1490" width="35" height="71" frameX="-26" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_up_04" x="910" y="1780" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_up_05" x="884" y="1854" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_blueflagwalk_up_06" x="882" y="1564" width="35" height="71" frameX="-26" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_down_01" x="1621" y="1951" width="33" height="63" frameX="-25" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_down_02" x="1771" y="1052" width="45" height="61" frameX="-20" frameY="-10" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_down_03" x="453" y="1992" width="61" height="53" frameX="-14" frameY="-17" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_down_04" x="101" y="1058" width="63" height="45" frameX="-15" frameY="-35" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_down_05" x="1026" y="932" width="63" height="39" frameX="-15" frameY="-44" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_left_01" x="1026" y="1241" width="47" height="65" frameX="-8" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_left_02" x="1839" y="954" width="53" height="57" frameX="-17" frameY="-14" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_left_03" x="575" y="1992" width="59" height="53" frameX="-22" frameY="-18" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_left_04" x="1894" y="715" width="57" height="39" frameX="-19" frameY="-38" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_left_05" x="101" y="1022" width="63" height="35" frameX="-16" frameY="-45" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_right_01" x="1376" y="933" width="33" height="63" frameX="-23" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_right_02" x="1885" y="1035" width="45" height="61" frameX="-16" frameY="-12" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_right_03" x="391" y="1992" width="61" height="53" frameX="-5" frameY="-19" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_right_04" x="165" y="1058" width="61" height="45" frameX="-4" frameY="-36" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_right_05" x="1217" y="2005" width="61" height="37" frameX="-4" frameY="-46" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_up_01" x="1078" y="1041" width="47" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_up_02" x="1785" y="932" width="53" height="59" frameX="-10" frameY="-15" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_up_03" x="515" y="1992" width="59" height="53" frameX="0" frameY="-21" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_up_04" x="1894" y="675" width="57" height="39" frameX="-4" frameY="-40" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_die_up_05" x="1026" y="1373" width="61" height="37" frameX="-2" frameY="-46" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_down_01" x="654" y="1648" width="43" height="75" frameX="-18" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_down_02" x="706" y="1568" width="49" height="73" frameX="-10" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_down_03" x="570" y="1730" width="35" height="77" frameX="-22" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_down_04" x="526" y="1574" width="43" height="77" frameX="-20" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_down_05" x="622" y="1911" width="37" height="77" frameX="-22" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_down_06" x="660" y="1886" width="59" height="75" frameX="-19" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_left_01" x="612" y="1418" width="53" height="75" frameX="-7" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_left_02" x="438" y="1914" width="47" height="77" frameX="-18" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_left_03" x="848" y="1492" width="39" height="71" frameX="-27" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_left_04" x="848" y="1492" width="39" height="71" frameX="-27" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_left_05" x="608" y="1648" width="45" height="75" frameX="-19" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_left_06" x="283" y="1022" width="73" height="77" frameX="-8" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_right_01" x="766" y="1492" width="43" height="73" frameX="-22" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_right_02" x="828" y="1640" width="49" height="71" frameX="-23" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_right_03" x="1858" y="722" width="35" height="77" frameX="-25" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_right_04" x="526" y="1496" width="43" height="77" frameX="-19" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_right_05" x="552" y="1834" width="39" height="77" frameX="-23" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_right_06" x="706" y="1494" width="59" height="73" frameX="-5" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_up_01" x="608" y="1496" width="53" height="75" frameX="-19" frameY="-1" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_up_02" x="390" y="1914" width="47" height="77" frameX="-14" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_up_03" x="842" y="1566" width="39" height="71" frameX="-13" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_up_04" x="842" y="1566" width="39" height="71" frameX="-13" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_up_05" x="742" y="1642" width="45" height="73" frameX="-15" frameY="-3" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagattack_up_06" x="246" y="1935" width="71" height="77" frameX="0" frameY="0" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_down_01" x="1582" y="1495" width="37" height="63" frameX="-25" frameY="-10" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_down_02" x="1186" y="1543" width="39" height="65" frameX="-24" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_left_01" x="940" y="1418" width="35" height="69" frameX="-19" frameY="-4" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_left_02" x="924" y="1489" width="35" height="69" frameX="-19" frameY="-4" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_right_01" x="1078" y="1173" width="37" height="65" frameX="-18" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_right_02" x="1302" y="1807" width="37" height="65" frameX="-18" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_up_01" x="1075" y="1971" width="35" height="67" frameX="-26" frameY="-6" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagidle_up_02" x="1104" y="1690" width="35" height="67" frameX="-26" frameY="-6" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_down_01" x="1094" y="1762" width="35" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_down_02" x="1068" y="1832" width="35" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_down_03" x="992" y="1840" width="37" height="67" frameX="-21" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_down_04" x="978" y="1914" width="37" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_down_05" x="1026" y="1486" width="37" height="67" frameX="-21" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_down_06" x="1054" y="1903" width="35" height="67" frameX="-22" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_left_01" x="976" y="1418" width="33" height="69" frameX="-22" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_left_02" x="1863" y="514" width="31" height="69" frameX="-24" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_left_03" x="946" y="1776" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_left_04" x="948" y="1920" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_left_05" x="920" y="1850" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_left_06" x="918" y="1924" width="29" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_right_01" x="1234" y="1475" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_right_02" x="1226" y="1409" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_right_03" x="1374" y="1107" width="35" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_right_04" x="1186" y="1411" width="39" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_right_05" x="1294" y="1741" width="37" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_right_06" x="1092" y="1622" width="35" height="67" frameX="-17" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_up_01" x="918" y="1562" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_up_02" x="914" y="1636" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_up_03" x="878" y="1638" width="35" height="71" frameX="-26" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_up_04" x="886" y="1710" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_up_05" x="874" y="1784" width="35" height="69" frameX="-26" frameY="-7" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_greenflagwalk_up_06" x="850" y="1712" width="35" height="71" frameX="-26" frameY="-5" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_down_01" x="1411" y="1937" width="33" height="65" frameX="-25" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_down_02" x="1440" y="1701" width="33" height="65" frameX="-25" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_left_01" x="1078" y="975" width="47" height="65" frameX="-8" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_left_02" x="1060" y="1107" width="47" height="65" frameX="-8" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_right_01" x="1412" y="1767" width="33" height="65" frameX="-23" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_right_02" x="1396" y="1871" width="33" height="65" frameX="-23" frameY="-8" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_up_01" x="1508" y="1695" width="47" height="63" frameX="-26" frameY="-10" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_idle_up_02" x="1534" y="1499" width="47" height="63" frameX="-26" frameY="-10" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_down_01" x="1270" y="1675" width="37" height="65" frameX="-20" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_down_02" x="1154" y="1477" width="39" height="65" frameX="-18" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_down_03" x="1112" y="1477" width="41" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_down_04" x="1166" y="1741" width="45" height="65" frameX="-14" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_down_05" x="1176" y="1807" width="43" height="65" frameX="-15" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_down_06" x="1102" y="1411" width="41" height="65" frameX="-17" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_left_01" x="1410" y="1107" width="31" height="65" frameX="-22" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_left_02" x="1412" y="1305" width="29" height="65" frameX="-24" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_left_03" x="1472" y="1305" width="27" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_left_04" x="1472" y="1239" width="27" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_left_05" x="1444" y="1239" width="27" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_left_06" x="497" y="990" width="27" height="67" frameX="-25" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_right_01" x="1380" y="1173" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_right_02" x="1194" y="931" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_right_03" x="1194" y="997" width="31" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_right_04" x="1258" y="1609" width="37" height="65" frameX="-19" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_right_05" x="1526" y="933" width="33" height="65" frameX="-21" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_right_06" x="1862" y="654" width="31" height="67" frameX="-21" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_up_01" x="1116" y="1307" width="41" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_up_02" x="1074" y="1307" width="41" height="65" frameX="-25" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_up_03" x="1020" y="1558" width="37" height="67" frameX="-26" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_up_04" x="1526" y="867" width="33" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_up_05" x="1344" y="1173" width="35" height="65" frameX="-26" frameY="-11" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soldier_green_walk_up_06" x="1016" y="1628" width="37" height="67" frameX="-26" frameY="-9" frameWidth="81" frameHeight="83"/>
+    <SubTexture name="soundbtn" x="1954" y="525" width="90" height="68"/>
+    <SubTexture name="tile1" x="1560" y="742" width="80" height="40"/>
+    <SubTexture name="tile2" x="1952" y="788" width="80" height="40"/>
+    <SubTexture name="tile3" x="1960" y="181" width="80" height="40"/>
+    <SubTexture name="tile4" x="1960" y="140" width="80" height="40"/>
+    <SubTexture name="tile5" x="1960" y="99" width="80" height="40"/>
+    <SubTexture name="tile6" x="1960" y="58" width="80" height="40"/>
+    <SubTexture name="tree1" x="98" y="1836" width="72" height="121"/>
+    <SubTexture name="tree2" x="171" y="1836" width="74" height="116"/>
+    <SubTexture name="tree3" x="1953" y="594" width="94" height="113"/>
+    <SubTexture name="tree4" x="1955" y="222" width="92" height="134"/>
+    <SubTexture name="tree5" x="1560" y="783" width="77" height="114"/>
+    <SubTexture name="tree6" x="246" y="1836" width="65" height="98"/>
+    <SubTexture name="uibase" x="1026" y="742" width="533" height="124"/>
+</TextureAtlas>

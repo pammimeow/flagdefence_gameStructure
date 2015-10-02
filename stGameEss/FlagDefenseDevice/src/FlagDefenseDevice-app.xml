@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/3.9">
+
+	<!-- Adobe AIR Application Descriptor File Template. Specifies parameters 
+		for identifying, installing, and launching AIR applications. xmlns - The 
+		Adobe AIR namespace: http://ns.adobe.com/air/application/3.5 The last segment 
+		of the namespace specifies the version of the AIR runtime required for this 
+		application to run. minimumPatchLevel - The minimum patch level of the AIR 
+		runtime required to run the application. Optional. -->
+
+	<!-- A universally unique application identifier. Must be unique across 
+		all AIR applications. Using a reverse DNS-style name as the id is recommended. 
+		(Eg. com.example.ExampleApplication.) Required. -->
+	<id>com.csharks.flagdefense</id>
+
+	<!-- Used as the filename for the application. Required. -->
+	<filename>FlagDefense</filename>
+
+	<!-- The name that is displayed in the AIR application installer. May have 
+		multiple values for each language. See samples or xsd schema file. Optional. -->
+	<name>FlagDefense</name>
+
+	<!-- A string value of the format <0-999>.<0-999>.<0-999> that represents 
+		application version which can be used to check for application upgrade. Values 
+		can also be 1-part or 2-part. It is not necessary to have a 3-part value. 
+		An updated version of application must have a versionNumber value higher 
+		than the previous version. Required for namespace >= 2.5 . -->
+	<versionNumber>0.9.0</versionNumber>
+
+	<!-- A string value (such as "v1", "2.5", or "Alpha 1") that represents 
+		the version of the application, as it should be shown to users. Optional. -->
+	<!-- <versionLabel></versionLabel> -->
+
+	<!-- Description, displayed in the AIR application installer. May have multiple 
+		values for each language. See samples or xsd schema file. Optional. -->
+	<!-- <description></description> -->
+
+	<!-- Copyright information. Optional -->
+	<!-- <copyright>Csharks Games & Solutions Pvt Ltd</copyright> -->
+
+	<!-- Publisher ID. Used if you're updating an application created prior 
+		to 1.5.3 -->
+	<!-- <publisherID></publisherID> -->
+
+	<!-- Settings for the application's initial window. Required. -->
+	<initialWindow>
+		<!-- The main SWF or HTML file of the application. Required. -->
+		<!-- Note: In Flash Builder, the SWF reference is set automatically. -->
+		<content>[This value will be overwritten by Flash Builder in the
+			output app.xml]</content>
+
+		<!-- Display Resolution for the app (either "standard" or "high"). Optional, 
+			OSX-only. Default "standard" -->
+		<!-- <requestedDisplayResolution></requestedDisplayResolution> -->
+		<autoOrients>false</autoOrients>
+		<aspectRatio>landscape</aspectRatio>
+		<renderMode>direct</renderMode>
+		<fullScreen>true</fullScreen>
+		<visible>true</visible>
+	</initialWindow>
+
+	<!-- We recommend omitting the supportedProfiles element, -->
+	<!-- which in turn permits your application to be deployed to all -->
+	<!-- devices supported by AIR. If you wish to restrict deployment -->
+	<!-- (i.e., to only mobile devices) then add this element and list -->
+	<!-- only the profiles which your application does support. -->
+	<supportedProfiles>mobileDevice extendedMobileDevice
+	</supportedProfiles>
+
+	<!-- The icon the system uses for the application. For at least one resolution, 
+		specify the path to a PNG file included in the AIR package. Optional. -->
+	<icon>
+		<!-- IOS set -->
+		<!--
+		<image29x29>media/Icon-Small.png</image29x29> 
+		<image50x50>media/Icon-Small-50.png</image50x50> 
+		<image57x57>media/Icon.png</image57x57> 
+		<image58x58>media/Icon-Small@2x.png</image58x58> 
+		<image72x72>media/Icon-72.png</image72x72> 
+		<image100x100>media/Icon-Small-50@2x.png</image100x100> 
+		<image114x114>media/Icon@2x.png</image114x114> 
+		<image144x144>media/Icon-72@2x.png</image144x144> 
+		<image48x48>media/Icon-48.png</image48x48>
+			 -->
+			
+		<!-- Android set -->
+		<image72x72>media/Icon-72.png</image72x72>
+		<image144x144>media/Icon-72@2x.png</image144x144>
+		<image16x16>media/Icon-16.png</image16x16>
+		<image32x32>media/Icon-32.png</image32x32>
+		<image36x36>media/Icon-36.png</image36x36>
+		<image48x48>media/Icon-48.png</image48x48>
+		<image96x96>media/Icon-96.png</image96x96>
+		<image128x128>media/Icon-128.png</image128x128>
+		
+		<!-- <image512x512></image512x512> 
+		<image732x412></image732x412> 
+		<image1024x1024></image1024x1024> -->
+	</icon>
+
+	<android>
+		<manifestAdditions><![CDATA[
+			<manifest android:installLocation="preferExternal">
+			<supports-screens
+     		   android:smallScreens="false"
+      		  android:normalScreens="true"
+       		 android:largeScreens="true"
+       		 android:xlargeScreens="true"/>
+			    <!--See the Adobe AIR documentation for more information about setting Google Android permissions-->
+			    <!--Removing the permission android.permission.INTERNET will have the side effect
+					of preventing you from debugging your application on your device-->
+			    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			   <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+			    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+			   <!--The ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE permissions should be toggled
+					together in order to use AIR's NetworkInfo APIs-->
+			    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+			    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+			     
+			     <!-- sleep resume wmode issue fix for no context-->
+			     <uses-sdk android:targetSdkVersion="11"/>
+  				   <uses-sdk android:minSdkVersion="8"/>
+   				 <uses-permission android:name="android.permission.INTERNET"/>
+  			  <application>
+  				 <activity android:name="com.google.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"/> 
+    			</application>
+			</manifest>
+			
+		]]></manifestAdditions>
+	</android>
+	<iPhone>
+		<InfoAdditions><![CDATA[
+			<key>UIDeviceFamily</key>
+			<array>
+				<string>1</string>
+				<string>2</string>
+			</array>
+			 <key>UIStatusBarStyle</key>
+                <string>UIStatusBarStyleBlackOpaque</string>
+                <key>UIRequiresPersistentWiFi</key>
+                <string>NO</string>
+		]]></InfoAdditions>
+		<requestedDisplayResolution>high</requestedDisplayResolution>
+	</iPhone>
+	<extensions>
+		<extensionID>so.cuo.ane.Admob</extensionID>
+	</extensions>
+</application>

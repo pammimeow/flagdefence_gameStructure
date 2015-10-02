@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:47365015c9aa7ecbbe967e088c9a6f06$ -->
+<TextureAtlas imagePath="rest2048.png">
+    <SubTexture name="GameOver" x="309" y="667" width="302" height="185" originalScale="1024"/>
+    <SubTexture name="GameWon" x="1" y="667" width="307" height="187" originalScale="1024"/>
+    <SubTexture name="TitleOnly" x="1" y="1" width="495" height="251" originalScale="1024"/>
+    <SubTexture name="backbtn" x="421" y="409" width="418" height="140"/>
+    <SubTexture name="helpbtn" x="469" y="273" width="467" height="135" frameX="-9" frameY="-1" frameWidth="485" frameHeight="137"/>
+    <SubTexture name="lbbtn" x="1" y="253" width="467" height="135" frameX="-9" frameY="-1" frameWidth="485" frameHeight="137"/>
+    <SubTexture name="multibtn" x="497" y="137" width="467" height="135" frameX="-9" frameY="-1" frameWidth="485" frameHeight="137"/>
+    <SubTexture name="okbtn" x="1" y="389" width="419" height="140"/>
+    <SubTexture name="playbtn" x="1" y="530" width="409" height="136"/>
+    <SubTexture name="singlebtn" x="497" y="1" width="467" height="135" frameX="-9" frameY="-1" frameWidth="485" frameHeight="137"/>
+    <SubTexture name="soundbtn" x="840" y="409" width="179" height="136"/>
+</TextureAtlas>

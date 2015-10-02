@@ -1,0 +1,1 @@
+﻿//used by PathFinderpackage libs.PathFinder {		public class PathNode {		public var x:Number;		public var y:Number;		public var g:Number;		public var h:Number;		public var parentNode:PathNode;			//Constructor		public function PathNode(xPos, yPos, gVal, hVal, link) {			x = xPos;			y = yPos;			g = gVal;			h = hVal;			parentNode = link;		}		//end of class	}}

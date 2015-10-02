@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FlagDefenseComplete</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Starling-Extension-Particle-System-master-src</name>
+			<type>2</type>
+			<location>C:/Users/sameeksha/Desktop/flash/Starling-Extension-Particle-System-master/src</location>
+		</link>
+		<link>
+			<name>[source path] greensock-js-src</name>
+			<type>2</type>
+			<location>C:/Users/sameeksha/Desktop/flash/gsock/greensock-js/src</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>C:/Users/sameeksha/Desktop/flash/starling framework/Gamua-Starling-Framework-110c2a5/starling/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
